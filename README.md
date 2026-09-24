@@ -1,4 +1,4 @@
-Tymscar's dotfiles
+Tymscar's dotfiles (edited to my liking)
 ==================
 
 Here I keep all my dotfiles serving the purpose of sharing but also as a backup for myself. I use [Nix](https://nixos.org/) to manage them. Feel free to take a look!
